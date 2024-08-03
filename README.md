@@ -40,18 +40,6 @@ The data used in this project is sourced from a fictional e-commerce database, w
 3 Products
 4 Sales
 
-Installation
-To view and interact with the Power BI dashboard, follow these steps:
-
-Clone this repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/yourusername/madhav-ecommerce-sales-dashboard.git
-Open the MadhavEcommerceSalesDashboard.pbix file in Power BI Desktop.
-
-Ensure that your data source is properly configured and loaded into Power BI.
-
 Usage
 
 Once the dashboard is loaded in Power BI Desktop, you can:
